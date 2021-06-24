@@ -2,7 +2,7 @@ Hi there 👋 I'm a Computer Science enthusiast with a keen interest in Maths. I
 
 Follow my blogs on Dev.to from [here](https://dev.to/aatmaj).
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aatmaj-Zephyr&theme=dracula)](https://github.com/Aatmaj-Zephyr/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aatmaj-Zephyr&theme=dracula)](https://github.com/Aatmaj-Zephyr)
 
 
 My skills

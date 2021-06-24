@@ -27,7 +27,7 @@ This is my Stack-Exchange flair-
 [2]: https://aatmaj.mhatre@gmail.com
 
 Blog courses-
-[Learning Python course](https://dev.to/aatmaj/launching-the-learning-python-course-5f31)
+1) [Learning Python course](https://dev.to/aatmaj/launching-the-learning-python-course-5f31)
 
-MATLAB course- coming soon
+2) MATLAB crash course- coming soon
 

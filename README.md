@@ -28,5 +28,6 @@ This is my Stack-Exchange flair-
 
 Blog courses-
 [Learning Python course](https://dev.to/aatmaj/launching-the-learning-python-course-5f31)
-MATLAB course- comming soon
+
+MATLAB course- coming soon
 

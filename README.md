@@ -1,6 +1,3 @@
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Aatmaj-Zephyr&label=Views&color=blue&style=plastic" alt=Aatmaj-Zephyr" /> </p>
-
 Hi there 👋 I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me & build projects on my own. I like to play musical instruments & practise Sahaja Yoga meditation.
 Follow my blogs on Dev.to from [here](https://dev.to/aatmaj).
 

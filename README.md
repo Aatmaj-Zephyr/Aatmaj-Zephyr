@@ -1,4 +1,4 @@
-Hi there 👋 I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me & build projects on my own. I like to play musical instruments & practise Sahaja Yoga meditation.
+Hi there 👋 I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me & build projects on my own. I like to play musical instruments & practise [Sahaja Yoga meditation](https://www.sahajayoga.org.in/).
 
 Follow my blogs on Dev.to from [here](https://dev.to/aatmaj).
 

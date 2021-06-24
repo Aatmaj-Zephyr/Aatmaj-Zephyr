@@ -16,6 +16,8 @@ This is my Stack-Exchange flair-
 
 <a href="https://stackexchange.com/users/18205358/aatmaj"><img src="https://stackexchange.com/users/flair/18205358.png" width="208" height="58" alt="profile for Aatmaj on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Aatmaj on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
+Contact me via-
+
 [![LinkedIn][1.2]][1]
 [![Gmail][2.2]][2]
 

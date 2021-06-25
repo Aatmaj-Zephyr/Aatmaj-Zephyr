@@ -34,4 +34,4 @@ Blog courses-
 1) [Learning Python course](https://dev.to/aatmaj/launching-the-learning-python-course-5f31)
 
 2) MATLAB crash course- coming soon
-  </ td> </ tr> </ table>
+ 

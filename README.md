@@ -1,4 +1,6 @@
-Hi there 👋 I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me & build projects on my own. I like to play musical instruments & practise [Sahaja Yoga meditation](https://www.sahajayoga.org.in/).
+<Table border=2 > <tr> <td>
+
+Hi there 👋 I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me & build projects on my own. I like to play musical instruments & practise [Sahaja Yoga meditation](https://www.sahajayoga.org.in).
 
 Follow my blogs on Dev.to from [here](https://dev.to/aatmaj).
 
@@ -32,4 +34,4 @@ Blog courses-
 1) [Learning Python course](https://dev.to/aatmaj/launching-the-learning-python-course-5f31)
 
 2) MATLAB crash course- coming soon
-
+  </ td> </ tr> </ table>

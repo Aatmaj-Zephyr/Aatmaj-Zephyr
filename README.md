@@ -2,9 +2,12 @@
 
 Hi there 👋 I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me & build projects on my own. I like to play musical instruments & practise [Sahaja Yoga meditation](https://www.sahajayoga.org.in).
 
-Follow my blogs on Dev.to from [here](https://dev.to/aatmaj).
+____
  
-
+<a href="https://github.com/Aatmaj-Zephyr">
+ <img src="https://github-readme-stats.vercel.app/api?username=Aatmaj-Zephyr&show_icons=true&theme=radical&line_height=20&include_all_commits=true&count_private=true alt="Aatmaj-Zephyr's github stats"/>
+</a><br>
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aatmaj-Zephyr&theme=dracula&title=Commit,Issues,Stars,Repositories)](https://github-profile-trophy.vercel.app/?username=Aatmaj-Zephyr&theme=dracula&title=Commit,Issues,Stars,Repositories)
 
 
@@ -31,6 +34,8 @@ Contact me via-
 [1]: https://www.linkedin.com/in/aatmajmhatre/
 [2]: https://aatmaj.mhatre@gmail.com
 
+
+Follow my blogs on Dev.to from [here](https://dev.to/aatmaj).
 Blog courses-
 1) [Learning Python course](https://dev.to/aatmaj/launching-the-learning-python-course-5f31)
 

@@ -45,6 +45,6 @@ Follow my blogs on Dev.to from [here](https://dev.to/aatmaj).
 Blog courses-
 1) [Learning Python course](https://dev.to/aatmaj/launching-the-learning-python-course-5f31)
 
-2) MATLAB crash course- coming soon
+2) [MATLAB crash course](https://dev.to/aatmaj/launching-matlab-mondays-a-crash-course-nb1)
 
 

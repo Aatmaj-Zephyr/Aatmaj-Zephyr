@@ -19,7 +19,7 @@ My skills
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Aatmaj-Zephyr)
 <img width="40" height="20" src="https://user-images.githubusercontent.com/83284294/123540998-995ff600-d75f-11eb-8b1b-9940ee5d68d2.png">
 ![MATLAB](https://img.shields.io/badge/MATLAB-image%20processing-yellowgreen)
 

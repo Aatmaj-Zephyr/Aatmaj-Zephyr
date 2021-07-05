@@ -8,17 +8,27 @@
 Hi there 👋 I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me & build projects on my own. I like to play musical instruments & practise [Sahaja Yoga meditation](https://www.sahajayoga.org.in).
 
 ____
-
+</tr>
+ <tr align="center"> <td> 
+ 
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aatmaj-Zephyr&theme=react-dark)](https://github.com/Aatmaj-Zephyr)
-
+</tr>
+ <tr align="center"> <td> 
+ 
 <a href="https://github.com/Aatmaj-Zephyr">
  <img align= "center" src="https://github-readme-stats.vercel.app/api?username=Aatmaj-Zephyr&show_icons=true&theme=radical&line_height=20&include_all_commits=true&count_private=true alt="Aatmaj-Zephyr's github stats"/>
 </a><br>
+ </tr>
+ <tr align="center"> <td> 
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aatmaj-Zephyr&theme=dracula&title=Commit,Issues,Stars,Repositories)](https://github-profile-trophy.vercel.app/?username=Aatmaj-Zephyr&theme=dracula&title=Commit,Issues,Stars,Repositories)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aatmaj-Zephyr&theme=dracula)](https://github-profile-trophy.vercel.app/?username=Aatmaj-Zephyr&theme=dracula&title=Commit,Issues,Stars,Repositories)
+</tr>
+ <tr align="center"> <td> 
+ 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aatmaj-Zephyr&" alt="Aatmaj-Zephyr" /></p>
-
+</tr>
+ <tr align="center"> <td> 
+ 
 
 ____
 My skills
@@ -33,7 +43,7 @@ This is my Stack-Exchange flair-
 
 
 <a href="https://stackexchange.com/users/18205358/aatmaj"><img src="https://stackexchange.com/users/flair/18205358.png" width="208" height="58" alt="profile for Aatmaj on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Aatmaj on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
-
+</tr><tr><td>
 Contact me via-
 
 [![LinkedIn][1.2]][1]

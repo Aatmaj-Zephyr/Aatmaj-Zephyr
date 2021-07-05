@@ -4,7 +4,8 @@ Hi there 👋 I'm a Computer Science enthusiast with a keen interest in Maths. I
 
 ____
 
- 
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aatmaj-Zephyr&theme=react-dark)](https://github.com/Aatmaj-Zephyr)
+
 <a href="https://github.com/Aatmaj-Zephyr">
  <img align= "center" src="https://github-readme-stats.vercel.app/api?username=Aatmaj-Zephyr&show_icons=true&theme=radical&line_height=20&include_all_commits=true&count_private=true alt="Aatmaj-Zephyr's github stats"/>
 </a><br>

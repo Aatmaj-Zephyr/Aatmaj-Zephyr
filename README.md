@@ -85,7 +85,7 @@ ____
 </tr>
  <tr align="center"> <td> 
  
- [![Aatmaj's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aatmaj-Zephyr&theme=react-dark)](https://github.com/Aatmaj-Zephyr)
+ [![Aatmaj's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aatmaj-Zephyr&theme=dracula)](https://github.com/Aatmaj-Zephyr)
 </tr>
  <tr align="center"> <td> 
  

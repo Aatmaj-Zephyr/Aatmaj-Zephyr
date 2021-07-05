@@ -10,11 +10,11 @@ ____
  
 <h3> About me</h3> 
 
-- 🎓 I am currently a student intern at [Wonderbiz technologies](https://www.linkedin.com/company/wonderbiz-technologies/mycompany/).  <img src="https://user-images.githubusercontent.com/83284294/124422693-5b775900-dd81-11eb-9126-3431b67b05a2.png" align="right"  width="80">
+- 🎓 I am currently a student intern at [Wonderbiz Technologies](https://www.linkedin.com/company/wonderbiz-technologies/mycompany/).  <img src="https://user-images.githubusercontent.com/83284294/124422693-5b775900-dd81-11eb-9126-3431b67b05a2.png" align="right"  width="80">
 
 - 🤠 &nbsp;Always exploring new technologies 🧭 
 - 😇 Staying hungry and foolish 🔍
-- ❤️‍🔥 Passionate programmer, innovator and tutor
+- ❤️‍🔥 Passionate programmer, innovator and a tutor.
 - ➕➖ Keen Mathematics enthusiast, researcher and educator.
 - I love to share my knowledge with others 🤝 and learn from everyone 🙌 
 - I want to increase my knowledge 📈 and make a place in the world 🚀

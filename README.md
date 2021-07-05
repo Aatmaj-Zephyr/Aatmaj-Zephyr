@@ -93,7 +93,7 @@ ____
 </tr>
  <tr align="center"> <td> 
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aatmaj-Zephyr&" alt="Aatmaj-Zephyr" /></p>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aatmaj-Zephyr&theme=dracula&background=8D0000&ring=DD2727&fire=DDD823&stroke=0F37DD)](https://github.com/Aatmaj-Zephyr)
 </tr>
  <tr align="center"> <td> 
  

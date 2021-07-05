@@ -5,7 +5,8 @@
 I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me & build projects on my own. I like to play musical instruments & practise [Sahaja Yoga meditation.](https://www.sahajayoga.org.in/)
 ---
 ____
-<img src="https://user-images.githubusercontent.com/83284294/124421891-038c2280-dd80-11eb-90ba-8d72f618a1fe" align="left">
+
+<img src="https://user-images.githubusercontent.com/83284294/124458826-1536ef80-ddab-11eb-9b66-c1621b2f7535.gif" align="left"></img>
  
 <h3> About me</h3> 
 

@@ -1,5 +1,10 @@
-<Table border=2 > <tr> <td>
-
+ 
+<Table border=2 > <tr align="center"> <td>
+ 
+![final_60d85b3bdb5f140062577f87_238535](https://user-images.githubusercontent.com/83284294/124414381-42b27780-dd70-11eb-862e-a90d111e0bdd.gif)
+</tr>
+<tr><td> 
+ 
 Hi there 👋 I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me & build projects on my own. I like to play musical instruments & practise [Sahaja Yoga meditation](https://www.sahajayoga.org.in).
 
 ____

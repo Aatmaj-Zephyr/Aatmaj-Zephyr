@@ -5,7 +5,7 @@
 I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me & build projects on my own. I like to play musical instruments & practise [Sahaja Yoga meditation.](https://www.sahajayoga.org.in/)
 ---
 ____
-<img src="https://user-images.githubusercontent.com/83284294/124421891-038c2280-dd80-11eb-90ba-8d72f618a1fe.gif" align="left">
+<img src="https://user-images.githubusercontent.com/83284294/124421891-038c2280-dd80-11eb-90ba-8d72f618a1fe" align="left">
  
 <h3> About me</h3> 
 
@@ -68,7 +68,8 @@ Blog courses-
 
 ____
 
-# My Github stats 
+# My Github stats <img width=80 src="https://user-images.githubusercontent.com/83284294/124457299-46162500-dda9-11eb-8a72-9f009ec9feab.gif">
+
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   

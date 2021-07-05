@@ -1,5 +1,7 @@
 
 # Hi there! ![ezgif-2-f0bfd8f7bd26](https://user-images.githubusercontent.com/83284294/124421267-b65b8100-dd7e-11eb-83a6-b3572a3ee21f.gif)
+<img src="https://user-images.githubusercontent.com/83284294/124453593-27159400-dda5-11eb-9480-8759f33747b8.gif" align="left">
+
 I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me & build projects on my own. I like to play musical instruments & practise [Sahaja Yoga meditation.](https://www.sahajayoga.org.in/)
 ---
 ____

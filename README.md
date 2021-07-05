@@ -42,19 +42,23 @@ ___
  ____
  
  <table border="2" align="center">
- <tr><td>
-<h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
+ <tr><td align="center">
+<h3>Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 
-[![LinkedIn][1.2]][1]
-[![Gmail][2.2]][2]
+____
 
-
-[1.2]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
-[2.2]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
-[1]: https://www.linkedin.com/in/aatmajmhatre/
-[2]: https://aatmaj.mhatre@gmail.com
   
+   
+[![LinkedIn][1.2]][1]
+   
+   [1.2]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white 
+   [1]: https://www.linkedin.com/in/aatmajmhatre/
+   
+[![Gmail][2.2]][2]
+   
+  [2.2]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  [2]: https://aatmaj.mhatre@gmail.com
+   
   </td><tr><td>
 
 Follow my blogs on Dev.to from [here](https://dev.to/aatmaj).

@@ -11,7 +11,7 @@ ____
 </tr>
  <tr align="center"> <td> 
  
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aatmaj-Zephyr&theme=react-dark)](https://github.com/Aatmaj-Zephyr)
+ [![Aatmaj's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aatmaj-Zephyr&theme=react-dark)](https://github.com/Aatmaj-Zephyr)
 </tr>
  <tr align="center"> <td> 
  

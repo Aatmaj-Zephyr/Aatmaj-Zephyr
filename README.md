@@ -10,9 +10,11 @@ ____
  
 <h3> About me</h3> 
 
-- 🎓 Currently a student intern at [WonderBiz Technologies](https://www.linkedin.com/company/wonderbiz-technologies/mycompany/).  <img src="https://user-images.githubusercontent.com/83284294/124422693-5b775900-dd81-11eb-9126-3431b67b05a2.png" align="right"  width="80">
 
-- 🤠 &nbsp;Always exploring new technologies 🧭 
+
+- 🎓 Currently a <!--student></--><sub><sub> <img src="https://user-images.githubusercontent.com/83284294/124911146-10bc4200-e00a-11eb-935f-747d0ea017bb.png"></img></sub></sub> intern at [WonderBiz Technologies](https://www.linkedin.com/company/wonderbiz-technologies/mycompany/).  <img src="https://user-images.githubusercontent.com/83284294/124422693-5b775900-dd81-11eb-9126-3431b67b05a2.png" align="right"  width="80">
+
+- 🤠 &nbsp;Always <sub> <sub><img src="https://user-images.githubusercontent.com/83284294/124911602-92ac6b00-e00a-11eb-8b4e-cb432f4aa782.png"></img></sub></sub> new technologies 🧭 
 - 😇 Staying hungry and foolish 🔍
 - ❤️‍🔥 Passionate programmer, innovator and a tutor.
 - ➕➖ Keen Mathematics enthusiast, researcher and educator.

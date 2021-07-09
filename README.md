@@ -51,9 +51,9 @@ ____
  
  <table border="2" align="center">
  <tr><td align="center">
-<h3>Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
+<h2><sub><sub><sub><sub><img width=70 src="https://user-images.githubusercontent.com/83284294/125031465-53355b80-e0aa-11eb-818f-d730b7a10086.gif"></img></sub></sub></sub></sub>
+Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">  </h2>
 
-____
 
   
    

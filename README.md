@@ -80,7 +80,8 @@ Blog courses-
 
 ____
 
-# My Github stats <img width=80 src="https://user-images.githubusercontent.com/83284294/124457299-46162500-dda9-11eb-8a72-9f009ec9feab.gif">
+# <img width=80 src="https://user-images.githubusercontent.com/83284294/124457299-46162500-dda9-11eb-8a72-9f009ec9feab.gif"> My Github stats <img width=80 src="https://user-images.githubusercontent.com/83284294/125032254-53822680-e0ab-11eb-8141-3f7c690b4a1f.gif"></img>
+
 
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)

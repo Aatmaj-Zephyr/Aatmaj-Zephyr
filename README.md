@@ -43,7 +43,6 @@ ___
 ____
  
  
- <p align=center>
   <b> [Ready for a new challenge ⚔️ ](https://github.com/Aatmaj-Zephyr/Challenges-to-Aatmaj-Zephyr/edit/main/CHALLENGE.md)</b>
  </p>
  

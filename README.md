@@ -17,7 +17,7 @@ ____
 - ❤️‍🔥 Passionate programmer, innovator and a tutor.
 - ➕➖ Keen Mathematics enthusiast, researcher and educator.
 - Love to share my knowledge with others 🤝 and learn from everyone 🙌 
-- Want to increase my knowledge 📈 and make a place in the world 🚀
+- Want to increase my skills 📈 and make a place in the world 🚀
 
 ___
 <table border="2" align="center">

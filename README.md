@@ -111,4 +111,5 @@ ____
  <tr align="center"> <td> 
  
 
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aatmaj-Zephyr&layout=compact)](https://github.com/Aatmaj-Zephyr)
+

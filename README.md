@@ -89,10 +89,7 @@ ____
  
 ![final_60d85b3bdb5f140062577f87_238535](https://user-images.githubusercontent.com/83284294/124414381-42b27780-dd70-11eb-862e-a90d111e0bdd.gif)
 
-</tr>
- <tr align="center"> <td> 
- 
- [![Aatmaj's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aatmaj-Zephyr&theme=dracula)](https://github.com/Aatmaj-Zephyr)
+
 </tr>
  <tr align="center"> <td> 
  

@@ -1,16 +1,19 @@
 
-# Hi there! ![ezgif-2-f0bfd8f7bd26](https://user-images.githubusercontent.com/83284294/124421267-b65b8100-dd7e-11eb-83a6-b3572a3ee21f.gif)
+# Hi there! <a href="https://github.com/Aatmaj-Zephyr">![ezgif-2-f0bfd8f7bd26](https://user-images.githubusercontent.com/83284294/124421267-b65b8100-dd7e-11eb-83a6-b3572a3ee21f.gif)</a>
+<a href="https://github.com/Aatmaj-Zephyr">
 <img src="https://user-images.githubusercontent.com/83284294/124453593-27159400-dda5-11eb-9480-8759f33747b8.gif" align="left">
+ </a>
 
 I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me & build projects on my own. I like to play musical instruments & practise [Sahaja Yoga meditation.](https://www.sahajayoga.org.in/)
 ---
 ____
-
+<a href="https://github.com/Aatmaj-Zephyr">
 <img src="https://user-images.githubusercontent.com/83284294/124458826-1536ef80-ddab-11eb-9b66-c1621b2f7535.gif" align="left"></img>
- 
+</a>
 <h3> About me</h3> 
 
-- 🎓 Currently a student intern at [WonderBiz Technologies](https://www.linkedin.com/company/wonderbiz-technologies/mycompany/).  <img src="https://user-images.githubusercontent.com/83284294/124422693-5b775900-dd81-11eb-9126-3431b67b05a2.png" align="right"  width="80">
+- 🎓 Currently a student intern at [WonderBiz Technologies](https://www.linkedin.com/company/wonderbiz-technologies/mycompany/). 
+<a href="https://www.linkedin.com/company/wonderbiz-technologies/mycompany/"> <img src="https://user-images.githubusercontent.com/83284294/124422693-5b775900-dd81-11eb-9126-3431b67b05a2.png" align="right"  width="80"></a>
 
 - 🤠 &nbsp;Always exploring new technologies 🧭 
 - 😇 Staying hungry and foolish 🔍
@@ -51,8 +54,8 @@ ____
  
  <table border="2" align="center">
  <tr><td align="center">
-<h2><sub><sub><sub><sub><img width=70 src="https://user-images.githubusercontent.com/83284294/125031465-53355b80-e0aa-11eb-818f-d730b7a10086.gif"></img></sub></sub></sub></sub>
-Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">  </h2>
+<h2><sub><sub><sub><sub><a href="https://github.com/Aatmaj-Zephyr"><img width=70 src="https://user-images.githubusercontent.com/83284294/125031465-53355b80-e0aa-11eb-818f-d730b7a10086.gif"></img></a></sub></sub></sub></sub>
+Connect with Me <a href="https://github.com/Aatmaj-Zephyr"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></img></a>  </h2>
 
 
   
@@ -87,7 +90,7 @@ ____
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   
   <Table border=2 > <tr align="center"> <td>
- 
+
 ![final_60e2a4ae81523d005f8e1fcf_329245](https://user-images.githubusercontent.com/83284294/129305659-e5deb364-84e0-4229-8952-82f749989ffb.gif)
 
 

@@ -70,9 +70,13 @@ Connect with Me <a href="https://github.com/Aatmaj-Zephyr"><img src="https://git
   [2.2]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
   [2]: https://aatmaj.mhatre@gmail.com
    
-  </td><tr><td>
+  </td><tr><td align="center">
 
 Follow my blogs on Dev.to from [here](https://dev.to/aatmaj).
+ 
+ 
+[ ![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/aatmaj)
+ </td><tr><td>
 Blog courses-
   
 1) <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> [Learning Python course](https://dev.to/aatmaj/launching-the-learning-python-course-5f31)

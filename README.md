@@ -1,5 +1,3 @@
-
-
 # Hi there! <a href="https://github.com/Aatmaj-Zephyr">![ezgif-2-f0bfd8f7bd26](https://user-images.githubusercontent.com/83284294/124421267-b65b8100-dd7e-11eb-83a6-b3572a3ee21f.gif)</a>
 <a href="https://github.com/Aatmaj-Zephyr">
 <img src="https://user-images.githubusercontent.com/83284294/124453593-27159400-dda5-11eb-9480-8759f33747b8.gif" align="left">
@@ -14,11 +12,12 @@ ____
 <h3> About me</h3> 
 
 - 🎓 Currently a student intern at [WonderBiz Technologies](https://www.linkedin.com/company/wonderbiz-technologies/mycompany/). 
-<a href="https://www.linkedin.com/company/wonderbiz-technologies/mycompany/"> <img src="https://user-images.githubusercontent.com/83284294/124422693-5b775900-dd81-11eb-9126-3431b67b05a2.png" align="right"  width="80"></a>
+<a href="https://github.com/Aatmaj-Zephyr"> <img src="https://user-images.githubusercontent.com/83284294/124422693-5b775900-dd81-11eb-9126-3431b67b05a2.png" align="right"  width="80"></a>
 
 - 🤠 &nbsp;Always exploring new technologies 🧭 
 - 😇 Staying hungry and foolish 🔍
 - ❤️‍🔥 Passionate programmer, innovator and a tutor.
+<a href="https://www.linkedin.com/company/wonderbiz-technologies/mycompany/"> <img src="https://user-images.githubusercontent.com/83284294/130360808-8a2526ba-1e8f-4738-840f-73f16cfa55b0.jpg" align="right"  width="250"></a>
 - ➕➖ Keen Mathematics enthusiast, researcher and educator.
 - Love to share my knowledge with others 🤝 and learn from everyone 🙌 
 - Want to increase my skills 📈 and make a place in the world 🚀
@@ -48,14 +47,18 @@ ___
    <a href="https://stackexchange.com/users/18205358/aatmaj"><img src="https://stackexchange.com/users/flair/18205358.png" width="208" align="center" height="58" alt="profile for Aatmaj on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Aatmaj on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
    
 </table>
+ <table align="center" border="3" ><tr><td>
+
+ <b> [Ready for a new challenge ⚔️ ](https://github.com/Aatmaj-Zephyr/Challenges-to-Aatmaj-Zephyr/edit/main/CHALLENGE.md)</b>
+
+</td><td>
  
-____
- 
- 
-  <b> [Ready for a new challenge ⚔️ ](https://github.com/Aatmaj-Zephyr/Challenges-to-Aatmaj-Zephyr/edit/main/CHALLENGE.md)</b>
- </p>
- 
-____
+   <a  href="https://github.com/Aatmaj-Zephyr">
+  <img align="right" src="https://user-images.githubusercontent.com/83284294/130360510-1e6b1e2c-3bd2-4715-aa2c-b339d54b8679.jpg" width=300 height=200 alt=""></img>
+  </a>
+
+ </td>
+</tr></table>
  
  <table border="2" align="center">
  <tr><td align="center">
@@ -63,7 +66,7 @@ ____
 Connect with Me <a href="https://github.com/Aatmaj-Zephyr"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></img></a>  </h2>
 
 
-  
+
    
 [![LinkedIn][1.2]][1]
    

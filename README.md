@@ -1,4 +1,5 @@
 
+
 # Hi there! <a href="https://github.com/Aatmaj-Zephyr">![ezgif-2-f0bfd8f7bd26](https://user-images.githubusercontent.com/83284294/124421267-b65b8100-dd7e-11eb-83a6-b3572a3ee21f.gif)</a>
 <a href="https://github.com/Aatmaj-Zephyr">
 <img src="https://user-images.githubusercontent.com/83284294/124453593-27159400-dda5-11eb-9480-8759f33747b8.gif" align="left">
@@ -24,10 +25,14 @@ ____
 
 ___
 <table border="2" align="center">
- <tr><td>
-  
+ <tr><td align="center">
+  <a href="https://github.com/Aatmaj-Zephyr">
+  <img src="https://user-images.githubusercontent.com/83284294/130359954-77e4079c-42b7-4c96-bf8b-5db5f45e0dd9.png" alt=""></img>
+  </a>
+  </td></tr><tr><td>
+                    
   **My skills**
-  
+
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) 
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)

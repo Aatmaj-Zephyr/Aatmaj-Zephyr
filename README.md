@@ -17,18 +17,14 @@ ____
 - 🤠 &nbsp;Always exploring new technologies 🧭 
 - 😇 Staying hungry and foolish 🔍
 - ❤️‍🔥 Passionate programmer, innovator and a tutor.
-<a href="https://github.com/Aatmaj-Zephyr"> <img src="https://user-images.githubusercontent.com/83284294/130360808-8a2526ba-1e8f-4738-840f-73f16cfa55b0.jpg" align="right"  width="250"></a>
+<a href="https://github.com/Aatmaj-Zephyr"> <img src="https://user-images.githubusercontent.com/83284294/130424416-9599aace-d23c-47e6-941f-0654668495d4.gif" align="right"  width="250"></a>
 - ➕➖ Keen Mathematics enthusiast, researcher and educator.
 - Love to share my knowledge with others 🤝 and learn from everyone 🙌 
 - Want to increase my skills 📈 and make a place in the world 🚀
 
 ___
 <table border="2" align="center">
- <tr><td align="center">
-  <a href="https://github.com/Aatmaj-Zephyr">
-  <img src="https://user-images.githubusercontent.com/83284294/130359954-77e4079c-42b7-4c96-bf8b-5db5f45e0dd9.png" alt=""></img>
-  </a>
-  </td></tr><tr><td>
+<tr><td>
                     
   **My skills**
 
@@ -95,8 +91,7 @@ Blog courses-
 
 ____
 
-# <img width=80 src="https://user-images.githubusercontent.com/83284294/124457299-46162500-dda9-11eb-8a72-9f009ec9feab.gif"> My Github stats <img width=80 src="https://user-images.githubusercontent.com/83284294/125032254-53822680-e0ab-11eb-8141-3f7c690b4a1f.gif"></img>
-
+# <img width=80 src="https://user-images.githubusercontent.com/83284294/124457299-46162500-dda9-11eb-8a72-9f009ec9feab.gif"> My Github stats <img width=80 src="https://user-images.githubusercontent.com/83284294/125032254-53822680-e0ab-11eb-8141-3f7c690b4a1f.gif"></img><img width=140 src="https://user-images.githubusercontent.com/83284294/130359954-77e4079c-42b7-4c96-bf8b-5db5f45e0dd9.png"></img>
 
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)

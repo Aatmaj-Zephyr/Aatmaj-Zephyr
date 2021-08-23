@@ -17,7 +17,7 @@ ____
 - 🤠 &nbsp;Always exploring new technologies 🧭 
 - 😇 Staying hungry and foolish 🔍
 - ❤️‍🔥 Passionate programmer, innovator and a tutor.
-<a href="https://www.linkedin.com/company/wonderbiz-technologies/mycompany/"> <img src="https://user-images.githubusercontent.com/83284294/130360808-8a2526ba-1e8f-4738-840f-73f16cfa55b0.jpg" align="right"  width="250"></a>
+<a href="https://github.com/Aatmaj-Zephyr"> <img src="https://user-images.githubusercontent.com/83284294/130360808-8a2526ba-1e8f-4738-840f-73f16cfa55b0.jpg" align="right"  width="250"></a>
 - ➕➖ Keen Mathematics enthusiast, researcher and educator.
 - Love to share my knowledge with others 🤝 and learn from everyone 🙌 
 - Want to increase my skills 📈 and make a place in the world 🚀

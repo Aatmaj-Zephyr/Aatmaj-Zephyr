@@ -114,7 +114,7 @@ ____
  </tr>
  <tr align="center"> <td> 
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aatmaj-Zephyr&theme=dracula)](https://github-profile-trophy.vercel.app/?username=Aatmaj-Zephyr&theme=dracula&title=Commit,Issues,Stars,Repositories)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aatmaj-Zephyr&theme=dracula)](https://github-profile-trophy.vercel.app/?username=Aatmaj-Zephyr&theme=dracula)
 </tr>
  <tr align="center"> <td> 
  

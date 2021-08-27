@@ -14,7 +14,7 @@ ____
 - 🎓 Currently a student intern at [WonderBiz Technologies](https://www.linkedin.com/company/wonderbiz-technologies/mycompany/). 
 <a href="https://github.com/Aatmaj-Zephyr"> <img src="https://user-images.githubusercontent.com/83284294/124422693-5b775900-dd81-11eb-9126-3431b67b05a2.png" align="right"  width="80"></a>
 
-- 🤠 &nbsp;Always exploring new technologies 🧭 
+- 🤠 Always exploring new technologies 🧭 
 - 😇 Staying hungry and foolish 🔍
 - ❤️‍🔥 Passionate programmer, innovator and a tutor.
 <a href="https://github.com/Aatmaj-Zephyr"> <img src="https://user-images.githubusercontent.com/83284294/130424416-9599aace-d23c-47e6-941f-0654668495d4.gif" align="right"  width="250"></a>
@@ -49,7 +49,7 @@ ___
 
 </td><td>
  
-   <a  href="https://github.com/Aatmaj-Zephyr">
+<a  href="https://github.com/Aatmaj-Zephyr">
   <img align="right" src="https://user-images.githubusercontent.com/83284294/130360510-1e6b1e2c-3bd2-4715-aa2c-b339d54b8679.jpg" width=300 height=200 alt=""></img>
   </a>
 
@@ -60,9 +60,6 @@ ___
  <tr><td align="center">
 <h2><sub><sub><sub><sub><a href="https://github.com/Aatmaj-Zephyr"><img width=70 src="https://user-images.githubusercontent.com/83284294/125031465-53355b80-e0aa-11eb-818f-d730b7a10086.gif"></img></a></sub></sub></sub></sub>
 Connect with Me <a href="https://github.com/Aatmaj-Zephyr"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></img></a>  </h2>
-
-
-
    
 [![LinkedIn][1.2]][1]
    
@@ -77,8 +74,7 @@ Connect with Me <a href="https://github.com/Aatmaj-Zephyr"><img src="https://git
   </td><tr><td align="center">
 
 Follow my blogs on Dev.to from [here](https://dev.to/aatmaj).
- 
- 
+  
 [ ![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/aatmaj)
  </td><tr><td>
 Blog courses-
@@ -121,9 +117,8 @@ ____
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aatmaj-Zephyr&theme=dracula&ring=DD2727&stroke=0F37DD)](https://github.com/Aatmaj-Zephyr)
 </tr>
  <tr align="center"> <td> 
- 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aatmaj-Zephyr&layout=compact)](https://github.com/Aatmaj-Zephyr)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aatmaj-Zephyr&layout=compact)](https://github.com/Aatmaj-Zephyr)
 
 </td>
 </tr>

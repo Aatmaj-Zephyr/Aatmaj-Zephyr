@@ -108,8 +108,8 @@ ____
 </tr>
  <tr align="center"> <td> 
  
-<a href="https://github-readme-stats.vercel.app/api?username=Aatmaj-Zephyr&show_icons=true&theme=radical&line_height=20&include_all_commits=true&count_private=true >
- <img align= "center" src="https://github-readme-stats.vercel.app/api?username=Aatmaj-Zephyr&show_icons=true&theme=radical&line_height=20&include_all_commits=true&count_private=true alt="Aatmaj-Zephyr's github stats"/>
+<a href="https://github-readme-stats.vercel.app/api?username=Aatmaj-Zephyr&show_icons=true&theme=radical&line_height=20&include_all_commits=true&count_private=true" >
+ <img align= "center" src="https://github-readme-stats.vercel.app/api?username=Aatmaj-Zephyr&show_icons=true&theme=radical&line_height=20&include_all_commits=true&count_private=true" alt="Aatmaj-Zephyr's github stats"></img>
 </a><br>
  </tr>
  <tr align="center"> <td> 

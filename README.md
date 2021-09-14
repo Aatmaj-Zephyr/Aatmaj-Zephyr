@@ -114,7 +114,7 @@ ____
 </tr>
  <tr align="center"> <td> 
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aatmaj-Zephyr&theme=dracula&ring=DD2727&stroke=0F37DD)](https://github.com/Aatmaj-Zephyr)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aatmaj-Zephyr&theme=dracula&ring=DD2727&stroke=0F37DD)](https://github-readme-streak-stats.herokuapp.com?user=Aatmaj-Zephyr&theme=dracula)
 </tr>
  <tr align="center"> <td> 
 

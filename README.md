@@ -5,6 +5,12 @@
 
 I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me & build projects on my own. I like to play musical instruments & practise [Sahaja Yoga meditation.](https://www.sahajayoga.org.in/)
 ---
+
+<p align=center>
+<a href="https://aatmaj.mhatre@gmail.com"><img src="https://img.icons8.com/clouds/100/000000/gmail.png"></img></a>
+<a href="https://www.linkedin.com/in/aatmajmhatre/"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png"></img></a>
+</p>
+
 ____
 <a href="https://github.com/Aatmaj-Zephyr">
 <img src="https://user-images.githubusercontent.com/83284294/124458826-1536ef80-ddab-11eb-9b66-c1621b2f7535.gif" align="left"></img>

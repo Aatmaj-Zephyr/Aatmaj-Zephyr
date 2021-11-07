@@ -125,8 +125,12 @@ ____
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aatmaj-Zephyr&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Aatmaj-Zephyr)
 
-</td>
+</td></tr>
+ <tr align="center"> <td> 
+ 
+  [![Aatmaj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AatmajZephyr)](https://github.com/Aatmaj-Zephyr/)
+
+ </td>
 </tr>
 </table>
 
-[![Aatmaj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AatmajZephyr)](https://github.com/Aatmaj-Zephyr/github-readme-stats)

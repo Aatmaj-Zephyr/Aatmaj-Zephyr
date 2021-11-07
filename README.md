@@ -129,4 +129,4 @@ ____
 </tr>
 </table>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AatmajZephyr)](https://github.com/anuraghazra/github-readme-stats)
+[![Aatmaj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AatmajZephyr)](https://github.com/Aatmaj-Zephyr/github-readme-stats)

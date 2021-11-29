@@ -34,12 +34,21 @@ ___
                     
   **My skills**
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) 
-![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Aatmaj-Zephyr)
-<img width="40" height="20" src="https://user-images.githubusercontent.com/83284294/123540998-995ff600-d75f-11eb-8b1b-9940ee5d68d2.png">
+**Skills**
+
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-image%20processing-yellowgreen)
+![](https://img.shields.io/badge/W3.CSS-Responsive-brightgreen)
+
   </td>
   <tr>
   <td>

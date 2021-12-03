@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/83284294/124453593-27159400-dda5-11eb-9480-8759f33747b8.gif" align="left">
  </a>
 
-I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me & build projects on my own. Innovating new ideas is my hobby. I like to play musical instruments & practise [Sahaja Yoga meditation.](https://www.sahajayoga.org.in/)
+I'm a Computer Science enthusiast with a keen interest in Maths. I like to tinker with things around me & build projects on my own. Innovating new ideas is my hobby. I like to play musical instruments & practise [Sahaja Yoga meditation.](https://www.freemeditation.com/)
 ---
 
 <p align=center>

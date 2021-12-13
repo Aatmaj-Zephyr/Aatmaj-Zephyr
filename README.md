@@ -146,6 +146,10 @@ ____
 [![](https://github.com/Aatmaj-Zephyr/Clone-1/blob/bf0e6ece80a96e636ee51af087cdb8350b34044d/generated/languages.svg)](https://github-readme-stats.vercel.app/api/top-langs/?username=Aatmaj-Zephyr)
  
  </td></tr>
- 
+ <td align="Center" ><tr>
+[![](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</tr></td>
 
 </table>

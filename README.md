@@ -146,10 +146,17 @@ ____
 [![](https://github.com/Aatmaj-Zephyr/Clone-1/blob/bf0e6ece80a96e636ee51af087cdb8350b34044d/generated/languages.svg)](https://github-readme-stats.vercel.app/api/top-langs/?username=Aatmaj-Zephyr)
  
  </td></tr>
+ 
  <td align="Center" ><tr>
-[![](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ 
+[![stats](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/0-profile-details.svg)](https:/github.com/Aatmaj-Zephyr)
+ 
+[![stats](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https:/github.com/Aatmaj-Zephyr) 
+ 
+[![stats](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https:/github.com/Aatmaj-Zephyr) 
+ 
+[![stats](https://github.com/Aatmaj-Zephyr/Clone-2/blob/60c17e9a460f3bf8e0b661826e076749b8745d69/profile-summary-card-output/dracula/0-profile-details.svg) [![stats](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/4-productive-time.svg)](https:/github.com/Aatmaj-Zephyr)
+ 
 </tr></td>
 
 </table>

@@ -140,4 +140,12 @@ ____
 [![](https://github.com/Aatmaj-Zephyr/Clone-1/blob/bf0e6ece80a96e636ee51af087cdb8350b34044d/generated/overview.svg)](https://github-readme-stats.vercel.app/api/top-langs/?username=Aatmaj-Zephyr)
  
  </td></tr>
+ 
+ <tr align="center"> <td>
+ 
+[![](https://github.com/Aatmaj-Zephyr/Clone-1/blob/bf0e6ece80a96e636ee51af087cdb8350b34044d/generated/languages.svg)](https://github-readme-stats.vercel.app/api/top-langs/?username=Aatmaj-Zephyr)
+ 
+ </td></tr>
+ 
+
 </table>

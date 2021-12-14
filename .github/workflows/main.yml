@@ -17,7 +17,7 @@ jobs:
       with:
         colors: dark-dimmed
         custom-title: My GitHub Statistics
-        hide-keys: joined, mostStarred, mostForked, followers, following, private
+        hide-keys: following
         max-languages: 100
         animated-language-chart: true
       env:

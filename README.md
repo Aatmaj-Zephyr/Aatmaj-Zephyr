@@ -157,6 +157,12 @@ ____
  
 </td></tr>
 
+<tr align="center"> <td>
+ ![stats](https://github.com/Aatmaj-Zephyr/Aatmaj-Zephyr/blob/Aatmaj-Zephyr-patch-1/images/userstats.svg)
+ </td>
+ </tr>
+ 
 </table>
 
-[![image](https://user-images.githubusercontent.com/83284294/145809457-31539c05-362c-4b6d-8c7b-da1ce6b98ecb.png)](https://profile-summary-for-github.com/user/Aatmaj-Zephyr)
+
+[![stats](https://user-images.githubusercontent.com/83284294/145809457-31539c05-362c-4b6d-8c7b-da1ce6b98ecb.png)](https://profile-summary-for-github.com/user/Aatmaj-Zephyr)

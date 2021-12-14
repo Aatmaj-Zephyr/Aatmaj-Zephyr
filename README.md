@@ -22,7 +22,7 @@ ____
 
 - 🤠 Always exploring new technologies 🧭 
 - 😇 Staying hungry and foolish 🔍
-- ❤️‍🔥 Passionate programmer, innovator and a tutor.
+- ❤️‍🔥 Passionate programmer, innovator and a tutor.👍
 <a href="https://github.com/Aatmaj-Zephyr"> <img src="https://user-images.githubusercontent.com/83284294/130424416-9599aace-d23c-47e6-941f-0654668495d4.gif" align="right"  width="250"></a>
 - ➕➖ Keen Mathematics enthusiast, researcher and educator.
 - Love to share my knowledge with others 🤝 and learn from everyone 🙌 

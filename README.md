@@ -158,7 +158,11 @@ ____
 </td></tr>
 
 <tr align="center"> <td>
+ 
+ 
  ![stats](https://github.com/Aatmaj-Zephyr/Aatmaj-Zephyr/blob/Aatmaj-Zephyr-patch-1/images/userstats.svg)
+ 
+ 
  </td>
  </tr>
  

@@ -22,3 +22,11 @@ jobs:
         animated-language-chart: true
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+    - name: Autocommit
+      if: steps.format.outputs.status == 'changed'
+      run: |
+        git config --global user.name 'Aatmaj-Zephyr'
+        git config --global user.email 'Aatmaj-Zephyr@users.noreply.github.com'
+        git commit -am "Autoformat"
+        git push 
+        

@@ -22,14 +22,14 @@ jobs:
     permissions:
       issues: write
     steps:
-      - name: Update SS
+      - name: Update stats SS
         uses: imjohnbo/issue-bot@3daae12aa54d38685d7ff8459fc8a2aee8cea98b
         with:
           assignees: "a-muk"
           labels: "Update stat SS"
           title: "Update stat SS"
           body: |
-            Please Update SS
+            Please Update stats SS
           pinned: false
           close-previous: false
         env:

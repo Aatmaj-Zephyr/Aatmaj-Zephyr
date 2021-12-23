@@ -169,4 +169,4 @@ ____
 </table>
 
 
-[![stats](https://user-images.githubusercontent.com/83284294/145809457-31539c05-362c-4b6d-8c7b-da1ce6b98ecb.png)](https://profile-summary-for-github.com/user/Aatmaj-Zephyr)
+[![image](https://user-images.githubusercontent.com/83284294/147200043-532636d3-4f7c-4acc-a9e0-ff54f930b25f.png)](https://profile-summary-for-github.com/user/Aatmaj-Zephyr)

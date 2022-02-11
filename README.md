@@ -193,4 +193,4 @@ https://user-images.githubusercontent.com/83284294/151153364-aa0f0952-533f-49f8-
 </table>
 
 
-[![image](https://user-images.githubusercontent.com/83284294/147200043-532636d3-4f7c-4acc-a9e0-ff54f930b25f.png)](https://profile-summary-for-github.com/user/Aatmaj-Zephyr)
+![image](https://user-images.githubusercontent.com/83284294/153578716-5283dc3d-0959-4d1b-b412-9ad280767b72.png)

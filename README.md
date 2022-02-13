@@ -192,4 +192,3 @@ https://user-images.githubusercontent.com/83284294/151153364-aa0f0952-533f-49f8-
  
 </table>
 
-<img src="https://raw.githubusercontent.com/Aatmaj-Zephyr/Aatmaj-Zephyr/6ac8b43ee2fcc6cf88a235f398bad35fcbff4b34/github-contribution-grid-snake.svg">

@@ -119,21 +119,7 @@ https://user-images.githubusercontent.com/83284294/151153364-aa0f0952-533f-49f8-
 
 
   </td>
-  <tr align="Center"><td>
-   
-  ## [Watch the 3d Model of my Github Skyline](https://skyline.github.com/aatmaj-zephyr/2021)
-   
-  </td>
-  <tr align="Center"><td>
-   
-  #### [Buy a souvenir of my Skyline](https://www.shapeways.com/product/BRQ5W3W2Y/aatmaj-zephyr-s-2021-github-skyline?key=d23a62f8e4e47f4adca0a906e559b856)
-  <details ><summary>More</summary>
-
-
-[![image](https://user-images.githubusercontent.com/83284294/151154947-bb5a2119-debe-4b44-bee4-aecd9098ccfe.png)](https://www.shapeways.com/product/BRQ5W3W2Y/aatmaj-zephyr-s-2021-github-skyline?key=d23a62f8e4e47f4adca0a906e559b856&optionId=245496161)
-   </details>
-   </td>
- </tr>
+  
  <tr align="center"> <td> 
 
  [![Aatmaj's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aatmaj-Zephyr&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=Aatmaj-Zephyr&theme=dracula)

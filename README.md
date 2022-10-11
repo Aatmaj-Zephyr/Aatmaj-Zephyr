@@ -51,7 +51,7 @@ ___
 
   </td>
   <tr>
-  <td>
+  <td align="center">
    My Stack exchange stats-
    
    

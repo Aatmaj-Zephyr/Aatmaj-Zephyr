@@ -94,7 +94,7 @@ Follow my blogs on Dev.to from [here](https://dev.to/aatmaj).
  </td><tr><td>
 Blog courses-
   
-1) <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> [Learning Python course](https://dev.to/aatmaj/launching-the-learning-python-course-5f31)
+1) <img align="left" alt="Python" width="22px" src="https://user-images.githubusercontent.com/83284294/141246159-7e3f77d4-49fd-4590-921d-24c77c109d76.jpg" /> [Learning Python course](https://dev.to/aatmaj/launching-the-learning-python-course-5f31)
 
 2) <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  [MATLAB crash course](https://dev.to/aatmaj/launching-matlab-mondays-a-crash-course-nb1)
 
@@ -156,24 +156,6 @@ https://user-images.githubusercontent.com/83284294/151153364-aa0f0952-533f-49f8-
  
  </td>
 </tr>
- 
- <tr align="Center" > <td>
- 
-[![stats](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/Aatmaj-Zephyr)
-[![stats](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/Aatmaj-Zephyr) 
-[![stats](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/Aatmaj-Zephyr) 
-[![stats](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/Aatmaj-Zephyr) 
- [![stats](https://raw.githubusercontent.com/Aatmaj-Zephyr/Clone-2/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/Aatmaj-Zephyr)
- 
-</td></tr>
-
-<tr align="center"> <td>
- 
- 
- ![stats](https://github.com/Aatmaj-Zephyr/Aatmaj-Zephyr/blob/Aatmaj-Zephyr-patch-protected/images/userstats.svg)
- 
- 
- </td>
  </tr>
  
 </table>

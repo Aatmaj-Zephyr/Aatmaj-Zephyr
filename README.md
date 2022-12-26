@@ -45,6 +45,7 @@ ___
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Networkx-Graph%20Theory-orange)
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-image%20processing-yellowgreen)
 ![](https://img.shields.io/badge/W3.CSS-Responsive-brightgreen)
